@@ -2,7 +2,8 @@
 
 > Livinginthenmoment 
 
-https://www.kaomianbao.club/
+首页地址https://www.kaomianbao.club/
+提示这是前端源码
 
 ## 安装步骤
 
